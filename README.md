@@ -1,2 +1,2 @@
-# Aplha-Lounge
+# Alpha-Lounge
 Alpha Lounge Website
